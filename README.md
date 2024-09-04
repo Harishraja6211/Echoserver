@@ -66,6 +66,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ```
 ## OUTPUT:
-C:\Users\admin\Pictures\Screenshots\Screenshot (1).png
+![Screenshot (1)](https://github.com/user-attachments/assets/adc6b5f7-c91c-4e28-9dec-cd9bd529d3ec)
+
 ## RESULT:
 The program is executed successfully
