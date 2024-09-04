@@ -66,6 +66,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ```
 ## OUTPUT:
-"C:\Users\admin\Pictures\Screenshots\Screenshot (1).png"
+C:\Users\admin\Pictures\Screenshots\Screenshot (1).png
 ## RESULT:
 The program is executed successfully
